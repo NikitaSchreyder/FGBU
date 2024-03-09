@@ -1,0 +1,23 @@
+.postsListItem {
+  list-style: none;
+}
+
+.postsListItem_title {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.postsListItem_title:hover {
+  color: rgb(0, 140, 255);
+}
+
+.postsListItem_body {
+  color: rgb(60, 60, 60);
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}

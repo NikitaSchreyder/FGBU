@@ -1,0 +1,18 @@
+.postCommentsItem {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  list-style: none;
+}
+
+.postCommentsItemName {
+  font-size: 20px;
+}
+
+.postCommentsItemEmail {
+  color: rgb(100, 100, 100);
+}
+
+.postCommentsItemBody {
+  color: rgb(60, 60, 60);
+}
